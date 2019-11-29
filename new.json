@@ -1,0 +1,724 @@
+{
+  "NewQQVVTFlex1.0": {
+    "12": {
+      "itens": "<p>- Filtro de óleo do motor;<br />\r\n- Filtro de combustível;<br />\r\n- Óleo para motor SYNTIUM 3000 XS SAE 5W-30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Inspeção de 30 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão:1h</p>",
+      "valor_vezes": "3x R$ 119,57",
+      "valor_a_vista": "À vista R$ 358,72",
+      "img": "images/revisao_caoa_logo.jpg"
+    },
+    "24": {
+      "itens": "<p>- Filtro de ar do motor;<br />\r\n- Filtro de óleo do motor;<br />\r\n- Filtro de combustível;<br />\r\n- Óleo para motor SYNTIUM 3000 XS SAE 5W-30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Inspeção de 30 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão: 1h15m</p>",
+      "valor_vezes": "3x R$ 149,60",
+      "valor_a_vista": "À vista R$ 448,79",
+      "img": "images/revisao_caoa_logo.jpg"
+    },
+    "36": {
+      "itens": "<p>- Filtro de óleo do motor;<br />\r\n- Filtro de combustível;<br />\r\n- Óleo para motor SYNTIUM 3000 XS SAE 5W-30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Óleo para Transmissão Tutela ZC 75W90 Synth;<br />\r\n- Inspeção de 36 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão: 1h50m</p>",
+      "valor_vezes": "3x R$ 195,92",
+      "valor_a_vista": "À vista R$ 587,75",
+      "img": "images/revisao_caoa_logo.jpg"
+    },
+    "48": {
+      "itens": "<p></p>",
+      "valor_vezes": "",
+      "valor_a_vista": "",
+      "img": "images/revisao_caoa_logo.jpg"
+    },
+    "60": {
+      "itens": "<p>- Filtro de ar do motor;<br />\r\n- Filtro de combustível;<br />\r\n- Filtro de óleo do motor;<br />\r\n- Óleo para motor SYNTIUM 3000 XS SAE 5W-30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Inspeção de 34 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão: 1h15m</p>",
+      "valor_vezes": "3x R$ 149,60",
+      "valor_a_vista": "À vista R$ 448,79",
+      "img": "images/revisao_caoa_logo.jpg"
+    },
+    "72": {
+      "itens": "<p>- Filtro de ar do motor;<br />\r\n- Filtro de combustível;<br />\r\n- Filtro de óleo do motor;<br />\r\n- Velas de ignição;<br />\r\n- Óleo para motor SYNTIUM 3000 XS SAE 5W-30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Óleo para Transmissão Tutela ZC 75W90 Synth;<br />\r\n- Inspeção de 37 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão: 1h50m</p>",
+      "valor_vezes": "3x R$ 245,87",
+      "valor_a_vista": "À vista R$ 737,60",
+      "img": "images/revisao_caoa_logo.jpg"
+    }
+  },
+  "NEWQQ1.0": {
+    "12": {
+      "itens": "<p>- Filtro de óleo do motor;<br />\r\n- Óleo para motor SYNTIUM 3000 XS SAE 5W-30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Inspeção de 30 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão: 1h</p>",
+      "valor_vezes": "3x R$ 112,11",
+      "valor_a_vista": "À vista R$ 336,32",
+      "img": "public/files/uytgajlrzlgj90ntnwgv/qq_revisao2.jpg"
+    },
+    "24": {
+      "itens": "<p>- Filtro de ar do motor;<br />\r\n- Filtro de óleo do motor;<br />\r\n- Óleo para motor SYNTIUM 3000 XS SAE 5W-30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Inspeção de 32 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão: 1h15m</p>",
+      "valor_vezes": "3x R$ 142,13",
+      "valor_a_vista": "À vista R$ 426,39",
+      "img": "public/files/uytgajlrzlgj90ntnwgv/qq_revisao2.jpg"
+    },
+    "36": {
+      "itens": "<p></p>",
+      "valor_vezes": "",
+      "valor_a_vista": "",
+      "img": "images/revisao_caoa_logo.jpg"
+    },
+    "48": {
+      "itens": "<p></p>",
+      "valor_vezes": "",
+      "valor_a_vista": "",
+      "img": "images/revisao_caoa_logo.jpg"
+    },
+    "60": {
+      "itens": "<p></p>",
+      "valor_vezes": "",
+      "valor_a_vista": "",
+      "img": "images/revisao_caoa_logo.jpg"
+    },
+    "72": {
+      "itens": "<p></p>",
+      "valor_vezes": "",
+      "valor_a_vista": "",
+      "img": "images/revisao_caoa_logo.jpg"
+    }
+  },
+  "QQ1.0": {
+    "12": {
+      "itens": "<p></p>",
+      "valor_vezes": "",
+      "valor_a_vista": "",
+      "img": "images/revisao_caoa_logo.jpg"
+    },
+    "24": {
+      "itens": "<p></p>",
+      "valor_vezes": "",
+      "valor_a_vista": "",
+      "img": "images/revisao_caoa_logo.jpg"
+    },
+    "36": {
+      "itens": "<p></p>",
+      "valor_vezes": "",
+      "valor_a_vista": "",
+      "img": "images/revisao_caoa_logo.jpg"
+    },
+    "48": {
+      "itens": "<p></p>",
+      "valor_vezes": "",
+      "valor_a_vista": "",
+      "img": "images/revisao_caoa_logo.jpg"
+    },
+    "60": {
+      "itens": "<p></p>",
+      "valor_vezes": "",
+      "valor_a_vista": "",
+      "img": "images/revisao_caoa_logo.jpg"
+    },
+    "72": {
+      "itens": "<p></p>",
+      "valor_vezes": "",
+      "valor_a_vista": "",
+      "img": "images/revisao_caoa_logo.jpg"
+    }
+  },
+  "QQ1.1": {
+    "12": {
+      "itens": "<p></p>",
+      "valor_vezes": "",
+      "valor_a_vista": "",
+      "img": "images/revisao_caoa_logo.jpg"
+    },
+    "24": {
+      "itens": "<p></p>",
+      "valor_vezes": "",
+      "valor_a_vista": "",
+      "img": "images/revisao_caoa_logo.jpg"
+    },
+    "36": {
+      "itens": "<p></p>",
+      "valor_vezes": "",
+      "valor_a_vista": "",
+      "img": "images/revisao_caoa_logo.jpg"
+    },
+    "48": {
+      "itens": "<p></p>",
+      "valor_vezes": "",
+      "valor_a_vista": "",
+      "img": "images/revisao_caoa_logo.jpg"
+    },
+    "60": {
+      "itens": "<p></p>",
+      "valor_vezes": "",
+      "valor_a_vista": "",
+      "img": "images/revisao_caoa_logo.jpg"
+    },
+    "72": {
+      "itens": "<p></p>",
+      "valor_vezes": "",
+      "valor_a_vista": "",
+      "img": "images/revisao_caoa_logo.jpg"
+    }
+  },
+  "Face": {
+    "12": {
+      "itens": "<p>- Filtro de combustível;<br />\r\n- Filtro de óleo do motor;<br />\r\n- Óleo para motor SYNTIUM 3000 XS SAE 5W-30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Inspeção de 31 itens;<br />\r\n- Mão de obra gratuita;<br />\r\n- Tempo estimado da revisão: 1h</p>",
+      "valor_vezes": "3x R$ 74,86",
+      "valor_a_vista": "À vista R$ 224,58",
+      "img": "images/revisao_caoa_logo.jpg"
+    },
+    "24": {
+      "itens": "<p>- Filtro de ar do motor;<br />\r\n- Filtro de combustível;<br />\r\n- Filtro de óleo do motor;<br />\r\n- Velas de ignição;<br />\r\n- Óleo para motor SYNTIUM 3000 XS SAE 5W-30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Inspeção de 31 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão: 2h20m</p>",
+      "valor_vezes": "3x R$ 306,09",
+      "valor_a_vista": "À vista R$ 918,27",
+      "img": "images/revisao_caoa_logo.jpg"
+    },
+    "36": {
+      "itens": "<p>- Filtro de combustível;<br />\r\n- Filtro de óleo do motor;<br />\r\n- Óleo para motor SYNTIUM 3000 XS SAE 5W-30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Óleo para Transmissão Tutela Zc 75W90 Synth;<br />\r\n- Inspeção de 37 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão:2h</p>",
+      "valor_vezes": "3x R$ 221,13",
+      "valor_a_vista": "À vista R$ 663,40",
+      "img": "images/revisao_caoa_logo.jpg"
+    },
+    "48": {
+      "itens": "<p>- Filtro de ar do motor;<br />\r\n- Filtro de combustível;<br />\r\n- Filtro de óleo do motor;<br />\r\n- Velas de ignição;<br />\r\n- Óleo para motor SYNTIUM 3000 XS SAE 5W-30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Inspeção de 33 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão:2h</p>",
+      "valor_vezes": "3x R$ 280,66",
+      "valor_a_vista": "À vista R$ 841,98",
+      "img": "images/revisao_caoa_logo.jpg"
+    },
+    "60": {
+      "itens": "<p>- Filtro de combustível;<br />\r\n- Filtro de óleo do motor;<br />\r\n- Óleo para motor SYNTIUM 3000 XS SAE 5W-30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Inspeção de 30 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão:1h20m</p>",
+      "valor_vezes": "3x R$ 157,51",
+      "valor_a_vista": "À vista R$ 472,52",
+      "img": "images/revisao_caoa_logo.jpg"
+    },
+    "72": {
+      "itens": "<p>- Correia de Sincronismo do motor;<br />\r\n- Filtro de ar do motor;<br />\r\n- Filtro de combustível;<br />\r\n- Filtro de óleo do motor;<br />\r\n- Velas de ignição;<br />\r\n- Óleo para motor SYNTIUM 3000 XS SAE 5W-30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Óleo para Transmissão Tutela Zc 75W90 Synth;<br />\r\n- Inspeção de 37 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão:2h15m</p>",
+      "valor_vezes": "3x R$ 445,71",
+      "valor_a_vista": "À vista R$ 1337,14",
+      "img": "images/revisao_caoa_logo.jpg"
+    }
+  },
+  "NovoCelerFLHatch": {
+    "12": {
+      "itens": "<p>- Filtro de combustível;<br />\r\n- Filtro de óleo do motor;<br />\r\n- Óleo para motor SYNTIUM 3000 XS SAE 5W-30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Inspeção de 30 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão: 1h</p>",
+      "valor_vezes": "3x R$ 138,79",
+      "valor_a_vista": "À vista R$ 416,37",
+      "img": "images/revisao_caoa_logo.jpg"
+    },
+    "24": {
+      "itens": "<p>- Filtro de ar do motor;<br />\r\n- Filtro de combustível;<br />\r\n- Filtro de óleo do motor;<br />\r\n- Óleo para motor SYNTIUM 3000 XS SAE 5W-30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Inspeção de 32 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão: 1h</p>",
+      "valor_vezes": "3x R$ 165,83",
+      "valor_a_vista": "À vista R$ 497,49",
+      "img": "images/revisao_caoa_logo.jpg"
+    },
+    "36": {
+      "itens": "<p>- Filtro de combustível;<br />\r\n- Filtro de óleo do motor;<br />\r\n- Óleo para motor SYNTIUM 3000 XS SAE 5W-30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Óleo para Transmissão Tutela ZC 75W90 Synth;<br />\r\n- Inspeção de 38 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão: 1h40m</p>",
+      "valor_vezes": "3x R$ 202,42",
+      "valor_a_vista": "À vista R$ 607,26",
+      "img": "images/revisao_caoa_logo.jpg"
+    },
+    "48": {
+      "itens": "<p>- Filtro de ar do motor;<br />\r\n- Filtro de combustível;<br />\r\n- Filtro de óleo do motor;<br />\r\n- Óleo para motor SYNTIUM 3000 XS SAE 5W-30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Inspeção de 34 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão: 1h15m</p>",
+      "valor_vezes": "3x R$ 165,83",
+      "valor_a_vista": "À vista R$ 497,49",
+      "img": "images/revisao_caoa_logo.jpg"
+    },
+    "60": {
+      "itens": "<p>- Filtro de combustível;<br />\r\n- Filtro de óleo do motor;<br />\r\n- Óleo para motor SYNTIUM 3000 XS SAE 5W-30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Inspeção de 30 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão: 1h</p>",
+      "valor_vezes": "3x R$ 138,79",
+      "valor_a_vista": "À vista R$ 416,37",
+      "img": "images/revisao_caoa_logo.jpg"
+    },
+    "72": {
+      "itens": "<p>- Correia de Sincronismo do motor;<br />\r\n- Filtro de ar do motor;<br />\r\n- Filtro de combustível;<br />\r\n- Filtro de óleo do motor;<br />\r\n- Velas de ignição;<br />\r\n- Óleo para motor SYNTIUM 3000 XS SAE 5W-30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Óleo para Transmissão Tutela ZC 75W90 Synth;<br />\r\n- Inspeção de 38 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão:1h50m</p>",
+      "valor_vezes": "3x R$ 347,40",
+      "valor_a_vista": "À vista R$ 1042,19",
+      "img": "images/revisao_caoa_logo.jpg"
+    }
+  },
+  "NovoCelerFLSedan": {
+    "12": {
+      "itens": "<p>- Filtro de combustível;<br />\r\n- Filtro de óleo do motor;<br />\r\n- Óleo para motor SYNTIUM 3000 XS SAE 5W-30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Inspeção de 30 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão: 1h</p>",
+      "valor_vezes": "3x R$ 138,79",
+      "valor_a_vista": "À vista R$ 416,37",
+      "img": "images/revisao_caoa_logo.jpg"
+    },
+    "24": {
+      "itens": "<p>- Filtro de ar do motor;<br />\r\n- Filtro de combustível;<br />\r\n- Filtro de óleo do motor;<br />\r\n- Óleo para motor SYNTIUM 3000 XS SAE 5W-30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Inspeção de 32 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão: 1h</p>",
+      "valor_vezes": "3x R$ 165,83",
+      "valor_a_vista": "À vista R$ 497,49",
+      "img": "images/revisao_caoa_logo.jpg"
+    },
+    "36": {
+      "itens": "<p>- Filtro de combustível;<br />\r\n- Filtro de óleo do motor;<br />\r\n- Óleo para motor SYNTIUM 3000 XS SAE 5W-30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Óleo para Transmissão Tutela ZC 75W90 Synth;<br />\r\n- Inspeção de 38 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão: 1h40m</p>",
+      "valor_vezes": "3x R$ 202,42",
+      "valor_a_vista": "À vista R$ 607,26",
+      "img": "images/revisao_caoa_logo.jpg"
+    },
+    "48": {
+      "itens": "<p>- Filtro de ar do motor;<br />\r\n- Filtro de combustível;<br />\r\n- Filtro de óleo do motor;<br />\r\n- Óleo para motor SYNTIUM 3000 XS SAE 5W-30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Inspeção de 34 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão: 1h15m</p>",
+      "valor_vezes": "3x R$ 165,83",
+      "valor_a_vista": "À vista R$ 497,49",
+      "img": "images/revisao_caoa_logo.jpg"
+    },
+    "60": {
+      "itens": "<p>- Filtro de combustível;<br />\r\n- Filtro de óleo do motor;<br />\r\n- Óleo para motor SYNTIUM 3000 XS SAE 5W-30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Inspeção de 30 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão: 1h</p>",
+      "valor_vezes": "3x R$ 138,79",
+      "valor_a_vista": "À vista R$ 416,37",
+      "img": "images/revisao_caoa_logo.jpg"
+    },
+    "72": {
+      "itens": "<p>- Correia de Sincronismo do motor;<br />\r\n- Filtro de ar do motor;<br />\r\n- Filtro de combustível;<br />\r\n- Filtro de óleo do motor;<br />\r\n- Velas de ignição;<br />\r\n- Óleo para motor SYNTIUM 3000 XS SAE 5W-30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Óleo para Transmissão Tutela ZC 75W90 Synth;<br />\r\n- Inspeção de 38 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão: 1h50m</p>",
+      "valor_vezes": "3x R$ 347,40",
+      "valor_a_vista": "À vista R$ 1042,19",
+      "img": "images/revisao_caoa_logo.jpg"
+    }
+  },
+  "CelerHatch": {
+    "12": {
+      "itens": "<p>- Filtro de combustível;<br />\r\n- Filtro de óleo do motor;<br />\r\n- Óleo para motor SYNTIUM 3000 XS SAE 5W-30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Inspeção de 30 itens;<br />\r\n- Mão de obra gratuita;<br />\r\n- Tempo estimado da revisão: 1h</p>",
+      "valor_vezes": "3x R$ 75,22",
+      "valor_a_vista": "À vista R$ 225,65",
+      "img": "images/revisao_caoa_logo.jpg"
+    },
+    "24": {
+      "itens": "<p>- Filtro de ar do motor;<br />\r\n- Filtro de combustível;<br />\r\n- Filtro de óleo do motor;<br />\r\n- Óleo para motor SYNTIUM 3000 XS SAE 5W-30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Inspeção de 32 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão: 1h15m</p>",
+      "valor_vezes": "3x R$ 165,83",
+      "valor_a_vista": "À vista R$ 497,49",
+      "img": "images/revisao_caoa_logo.jpg"
+    },
+    "36": {
+      "itens": "<p>- Filtro de combustível;<br />\r\n- Filtro de óleo do motor;<br />\r\n- Óleo para motor SYNTIUM 3000 XS SAE 5W-30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Óleo para Transmissão Tutela Zc 75W90 Synth;<br />\r\n- Inspeção de 38 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão: 1h40m</p>",
+      "valor_vezes": "3x R$ 202,42",
+      "valor_a_vista": "À vista R$ 607,26",
+      "img": "images/revisao_caoa_logo.jpg"
+    },
+    "48": {
+      "itens": "<p>- Filtro de ar do motor;<br />\r\n- Filtro de combustível;<br />\r\n- Filtro de óleo do motor;<br />\r\n- Óleo para motor SYNTIUM 3000 XS SAE 5W-30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Inspeção de 34 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão: 1h15m</p>",
+      "valor_vezes": "3x R$ 165,83",
+      "valor_a_vista": "À vista R$ 497,49",
+      "img": "images/revisao_caoa_logo.jpg"
+    },
+    "60": {
+      "itens": "<p>- Filtro de combustível;<br />\r\n- Filtro de óleo do motor;<br />\r\n- Óleo para motor SYNTIUM 3000 XS SAE 5W-30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Inspeção de 30 itens;<br />\r\n- Mão de obra gratuita;<br />\r\n- Tempo estimado da revisão: 1h</p>",
+      "valor_vezes": "3x R$ 138,79",
+      "valor_a_vista": "À vista R$ 416,37",
+      "img": "images/revisao_caoa_logo.jpg"
+    },
+    "72": {
+      "itens": "<p>- Correia de Sincronismo do motor;<br />\r\n- Filtro de ar do motor;<br />\r\n- Filtro de combustível;<br />\r\n- Filtro de óleo do motor;<br />\r\n- Velas de ignição;<br />\r\n- Óleo para motor SYNTIUM 3000 XS SAE 5W-30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Óleo para Transmissão Tutela Zc 75W90 Synth;<br />\r\n- Inspeção de 38 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão:1h50m</p>",
+      "valor_vezes": "3x R$ 347,40",
+      "valor_a_vista": "À vista R$ 1042,19",
+      "img": "images/revisao_caoa_logo.jpg"
+    }
+  },
+  "CelerSedan": {
+    "12": {
+      "itens": "<p>- Filtro de combustível;<br />\r\n- Filtro de óleo do motor;<br />\r\n- Óleo para motor SYNTIUM 3000 XS SAE 5W-30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Inspeção de 30 itens;<br />\r\n- Mão de obra gratuita;<br />\r\n- Tempo estimado da revisão: 1h</p>",
+      "valor_vezes": "3x R$ 75,22",
+      "valor_a_vista": "À vista R$ 225,65",
+      "img": "images/revisao_caoa_logo.jpg"
+    },
+    "24": {
+      "itens": "<p>- Filtro de ar do motor;<br />\r\n- Filtro de combustível;<br />\r\n- Filtro de óleo do motor;<br />\r\n- Óleo para motor SYNTIUM 3000 XS SAE 5W-30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Inspeção de 32 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão: 1h15m</p>",
+      "valor_vezes": "3x R$ 165,83",
+      "valor_a_vista": "À vista R$ 497,49",
+      "img": "images/revisao_caoa_logo.jpg"
+    },
+    "36": {
+      "itens": "<p>- Filtro de combustível;<br />\r\n- Filtro de óleo do motor;<br />\r\n- Óleo para motor SYNTIUM 3000 XS SAE 5W-30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Óleo para Transmissão Tutela Zc 75W90 Synth;<br />\r\n- Inspeção de 38 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão: 1h40m</p>",
+      "valor_vezes": "3x R$ 202,42",
+      "valor_a_vista": "À vista R$ 607,26",
+      "img": "images/revisao_caoa_logo.jpg"
+    },
+    "48": {
+      "itens": "<p>- Filtro de ar do motor;<br />\r\n- Filtro de combustível;<br />\r\n- Filtro de óleo do motor;<br />\r\n- Óleo para motor SYNTIUM 3000 XS SAE 5W-30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Inspeção de 34 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão:1h15m</p>",
+      "valor_vezes": "3x R$ 165,83",
+      "valor_a_vista": "À vista R$ 497,49",
+      "img": "images/revisao_caoa_logo.jpg"
+    },
+    "60": {
+      "itens": "<p>- Filtro de combustível;<br />\r\n- Filtro de óleo do motor;<br />\r\n- Óleo para motor SYNTIUM 3000 XS SAE 5W-30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Inspeção de 30 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão:1h</p>",
+      "valor_vezes": "3x R$ 138,79",
+      "valor_a_vista": "À vista R$ 416,37",
+      "img": "images/revisao_caoa_logo.jpg"
+    },
+    "72": {
+      "itens": "<p>- Correia de Sincronismo do motor;<br />\r\n- Filtro de ar do motor;<br />\r\n- Filtro de combustível;<br />\r\n- Filtro de óleo do motor;<br />\r\n- Velas de ignição;<br />\r\n- Óleo para motor SYNTIUM 3000 XS SAE 5W-30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Óleo para Transmissão Tutela Zc 75W90 Synth;<br />\r\n- Inspeção de 38 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão:1h50m</p>",
+      "valor_vezes": "3x R$ 347,40",
+      "valor_a_vista": "À vista R$ 1042,19",
+      "img": "images/revisao_caoa_logo.jpg"
+    }
+  },
+  "NovoTiggoManual": {
+    "12": {
+      "itens": "<p>- Filtro de óleo do motor;<br />\r\n- Óleo Syntium 3000 XS SAE 5W30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Inspeção de 33 itens;<br />\r\n- Mão de obra gratuita;<br />\r\n- Tempo estimado da revisão: 1h</p>",
+      "valor_vezes": "3x R$ 80,79",
+      "valor_a_vista": "À vista R$ 242,38",
+      "img": "images/revisao_caoa_logo.jpg"
+    },
+    "24": {
+      "itens": "<p>- Filtro de ar do motor;<br />\r\n- Velas de ignição;<br />\r\n- Óleo Syntium 3000 XS SAE 5W30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Inspeção de 34 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão:1h10m</p>",
+      "valor_vezes": "3x R$ 206,34",
+      "valor_a_vista": "À vista R$ 619,02",
+      "img": "images/revisao_caoa_logo.jpg"
+    },
+    "36": {
+      "itens": "<p>- Filtro de combustível;<br />\r\n- Filtro de óleo do motor;<br />\r\n- Óleo Syntium 3000 XS SAE 5W30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Óleo para Transmissão Tutela ZC 75W90 Synth;<br />\r\n- Inspeção de 40 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão:1h30m</p>",
+      "valor_vezes": "3x R$ 208,69",
+      "valor_a_vista": "À vista R$ 626,06",
+      "img": "images/revisao_caoa_logo.jpg"
+    },
+    "48": {
+      "itens": "<p>- Filtro de ar do motor;<br />\r\n- Velas de ignição;<br />\r\n- Óleo Syntium 3000 XS SAE 5W30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Inspeção de 36 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão:1h15m</p>",
+      "valor_vezes": "3x R$ 212,70",
+      "valor_a_vista": "À vista R$ 638,09",
+      "img": "images/revisao_caoa_logo.jpg"
+    },
+    "60": {
+      "itens": "<p>- Filtro de óleo do motor;<br />\r\n- Óleo Syntium 3000 XS SAE 5W30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Inspeção de 33 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão:1h</p>",
+      "valor_vezes": "3x R$ 150,73",
+      "valor_a_vista": "À vista R$ 452,18",
+      "img": "images/revisao_caoa_logo.jpg"
+    },
+    "72": {
+      "itens": "<p>- Correia de Sincronismo do motor;<br />\r\n- Filtro de ar do motor;<br />\r\n- Filtro de combustível;<br />\r\n- Filtro de óleo do motor;<br />\r\n- Velas de ignição;<br />\r\n- Óleo Syntium 3000 XS SAE 5W30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Óleo para Transmissão Tutela ZC 75W90 Synth;<br />\r\n- Inspeção de 40 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão:3h</p>",
+      "valor_vezes": "3x R$ 447,19",
+      "valor_a_vista": "À vista R$ 1341,56",
+      "img": "images/revisao_caoa_logo.jpg"
+    }
+  },
+  "NovoTiggoAutomático": {
+    "12": {
+      "itens": "<p>- Filtro de óleo do motor;<br />\r\n- Óleo Syntium 3000 XS SAE 5W30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Inspeção de 33 itens;<br />\r\n- Mão de obra gratuita;<br />\r\n- Tempo estimado da revisão: 1h</p>",
+      "valor_vezes": "3x R$ 80,79",
+      "valor_a_vista": "À vista R$ 242,38",
+      "img": "images/revisao_caoa_logo.jpg"
+    },
+    "24": {
+      "itens": "<p>- Filtro de óleo do motor;<br />\r\n- Velas de ignição;<br />\r\n- Óleo Syntium 3000 XS SAE 5W30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Inspeção de 34 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão:1h10m</p>",
+      "valor_vezes": "3x R$ 206,34",
+      "valor_a_vista": "À vista R$ 619,02",
+      "img": "images/revisao_caoa_logo.jpg"
+    },
+    "36": {
+      "itens": "<p>- Filtro de combustível;<br />\r\n- Filtro de óleo do motor;<br />\r\n- Óleo Syntium 3000 XS SAE 5W30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Inspeção de 40 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão:1h20m</p>",
+      "valor_vezes": "3x R$ 170,49",
+      "valor_a_vista": "À vista R$ 511,46",
+      "img": "images/revisao_caoa_logo.jpg"
+    },
+    "48": {
+      "itens": "<p>- Filtro de ar do motor;<br />\r\n- Filtro de óleo do motor;<br />\r\n- Velas de ignição;<br />\r\n- Óleo Syntium 3000 XS SAE 5W30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Fluido para Transmissão Automática Tutela GI/MV;<br />\r\n- Inspeção de 36 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão:1h50m</p>",
+      "valor_vezes": "3x R$ 313,15",
+      "valor_a_vista": "À vista R$ 939,45",
+      "img": "images/revisao_caoa_logo.jpg"
+    },
+    "60": {
+      "itens": "<p>- Filtro de óleo do motor;<br />\r\n- Óleo Syntium 3000 XS SAE 5W30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Inspeção de 33 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão:1h30m</p>",
+      "valor_vezes": "3x R$ 176,15",
+      "valor_a_vista": "À vista R$ 528,46",
+      "img": "images/revisao_caoa_logo.jpg"
+    },
+    "72": {
+      "itens": "<p>- Correia de Sincronismo do motor;<br />\r\n- Filtro de ar do motor;<br />\r\n- Filtro de combustível;<br />\r\n- Filtro de óleo do motor;<br />\r\n- Velas de ignição;<br />\r\n- Óleo Syntium 3000 XS SAE 5W30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Inspeção de 40 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão:2h50m</p>",
+      "valor_vezes": "3x R$ 408,99",
+      "valor_a_vista": "À vista R$ 1226,96",
+      "img": "images/revisao_caoa_logo.jpg"
+    }
+  },
+  "Cielo": {
+    "12": {
+      "itens": "<p>- Filtro de óleo do motor;<br />\r\n- Óleo para motor SYNTIUM 3000 XS SAE 5W-30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Inspeção de 31 itens;<br />\r\n- Mão de obra gratuita;<br />\r\n- Tempo estimado da revisão: 1h</p>",
+      "valor_vezes": "3x R$ 80,79",
+      "valor_a_vista": "À vista R$ 242,38",
+      "img": "images/revisao_caoa_logo.jpg"
+    },
+    "24": {
+      "itens": "<p>- Filtro de ar do motor;<br />\r\n- Filtro de óleo do motor;<br />\r\n- Velas de ignição;<br />\r\n- Óleo para motor SYNTIUM 3000 XS SAE 5W-30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Inspeção de 32 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão:1h20m</p>",
+      "valor_vezes": "3x R$ 220,48",
+      "valor_a_vista": "À vista R$ 661,43",
+      "img": "images/revisao_caoa_logo.jpg"
+    },
+    "36": {
+      "itens": "<p>- Filtro de combustível;<br />\r\n- Filtro de óleo do motor;<br />\r\n- Óleo para motor SYNTIUM 3000 XS SAE 5W-30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Óleo para Transmissão Tutela ZC 75W90 Synth;<br />\r\n- Inspeção de 38 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão:1h15m</p>",
+      "valor_vezes": "3x R$ 232,91",
+      "valor_a_vista": "À vista R$ 698,74",
+      "img": "images/revisao_caoa_logo.jpg"
+    },
+    "48": {
+      "itens": "<p>- Filtro de ar do motor;<br />\r\n- Filtro de óleo do motor;<br />\r\n- Velas de ignição;<br />\r\n- Óleo para motor SYNTIUM 3000 XS SAE 5W-30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Inspeção de 34 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão:1h15m</p>",
+      "valor_vezes": "3x R$ 214,12",
+      "valor_a_vista": "À vista R$ 642,36",
+      "img": "images/revisao_caoa_logo.jpg"
+    },
+    "60": {
+      "itens": "<p>- Filtro de óleo do motor;<br />\r\n- Óleo para motor SYNTIUM 3000 XS SAE 5W-30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Inspeção de 31 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão:1h10m</p>",
+      "valor_vezes": "3x R$ 150,73",
+      "valor_a_vista": "À vista R$ 452,18",
+      "img": "images/revisao_caoa_logo.jpg"
+    },
+    "72": {
+      "itens": "<p>- Correia de Sincronismo do motor;<br />\r\n- Filtro de ar do motor;<br />\r\n- Filtro de combustível;<br />\r\n- Filtro de óleo do motor;<br />\r\n- Velas de ignição;<br />\r\n- Óleo para motor SYNTIUM 3000 XS SAE 5W-30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Óleo para Transmissão Tutela ZC 75W90 Synth;<br />\r\n- Inspeção de 38 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão:2h50m</p>",
+      "valor_vezes": "3x R$ 441,05",
+      "valor_a_vista": "À vista R$ 1323,15",
+      "img": "images/revisao_caoa_logo.jpg"
+    }
+  },
+  "S18": {
+    "12": {
+      "itens": "<p>- Filtro de combustível;<br />\r\n- Filtro de óleo do motor;<br />\r\n- Óleo para motor SYNTIUM 3000 XS SAE 5W-30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Inspeção de 30 itens;<br />\r\n- Mão de obra gratuita;<br />\r\n- Tempo estimado da revisão: 1h</p>",
+      "valor_vezes": "3x R$ 74,86",
+      "valor_a_vista": "À vista R$ 224,58",
+      "img": "images/revisao_caoa_logo.jpg"
+    },
+    "24": {
+      "itens": "<p>- Filtro de ar do motor;<br />\r\n- Filtro de combustível;<br />\r\n- Filtro de óleo do motor;<br />\r\n- Velas de ignição;<br />\r\n- Óleo para motor SYNTIUM 3000 XS SAE 5W-30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Inspeção de 31 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão:1h20m</p>",
+      "valor_vezes": "3x R$ 255,46",
+      "valor_a_vista": "À vista R$ 766,39",
+      "img": "images/revisao_caoa_logo.jpg"
+    },
+    "36": {
+      "itens": "<p>- Filtro de combustível;<br />\r\n- Filtro de óleo do motor;<br />\r\n- Óleo para motor SYNTIUM 3000 XS SAE 5W-30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Óleo para Transmissão Tutela ZC 75W90 Synth;<br />\r\n- Inspeção de 37 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão:1h50m</p>",
+      "valor_vezes": "3x R$ 214,78",
+      "valor_a_vista": "À vista R$ 644,33",
+      "img": "images/revisao_caoa_logo.jpg"
+    },
+    "48": {
+      "itens": "<p>- Filtro de ar do motor;<br />\r\n- Filtro de combustível;<br />\r\n- Filtro de óleo do motor;<br />\r\n- Velas de ignição;<br />\r\n- Óleo para motor SYNTIUM 3000 XS SAE 5W-30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Inspeção de 33 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão:1h25m</p>",
+      "valor_vezes": "3x R$ 261,82",
+      "valor_a_vista": "À vista R$ 785,46",
+      "img": "images/revisao_caoa_logo.jpg"
+    },
+    "60": {
+      "itens": "<p>- Filtro de combustível;<br />\r\n- Filtro de óleo do motor;<br />\r\n- Óleo para motor SYNTIUM 3000 XS SAE 5W-30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Inspeção de 30 itens;<br />\r\n- Mão de obra gratuita;<br />\r\n- Tempo estimado da revisão:1h15m</p>",
+      "valor_vezes": "3x R$ 151,15",
+      "valor_a_vista": "À vista R$ 453,44",
+      "img": "images/revisao_caoa_logo.jpg"
+    },
+    "72": {
+      "itens": "<p>- Correia de Sincronismo do motor;<br />\r\n- Filtro de ar do motor;<br />\r\n- Filtro de combustível;<br />\r\n- Filtro de óleo do motor;<br />\r\n- Velas de ignição;<br />\r\n- Óleo para motor SYNTIUM 3000 XS SAE 5W-30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Óleo para Transmissão Tutela ZC 75W90 Synth;<br />\r\n- Inspeção de 37 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão:2h25m</p>",
+      "valor_vezes": "3x R$ 471,38",
+      "valor_a_vista": "À vista R$ 1414,13",
+      "img": "images/revisao_caoa_logo.jpg"
+    }
+  },
+  "Tiggo": {
+    "12": {
+      "itens": "<p>- Filtro de óleo do motor;<br />\r\n- Óleo para motor SYNTIUM 3000 XS SAE 5W-30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Inspeção de 31 itens;<br />\r\n- Mão de obra gratuita;<br />\r\n- Tempo estimado da revisão: 1h</p>",
+      "valor_vezes": "3x R$ 80,79",
+      "valor_a_vista": "À vista R$ 242,38",
+      "img": "public/files/kvhb2d2iuyg9chmv70px/tiggo.jpg"
+    },
+    "24": {
+      "itens": "<p>- Filtro de ar do motor;<br />\r\n- Filtro de óleo do motor;<br />\r\n- Velas de ignição;<br />\r\n- Óleo para motor SYNTIUM 3000 XS SAE 5W-30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Inspeção de 32 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão:1h10m</p>",
+      "valor_vezes": "3x R$ 206,34",
+      "valor_a_vista": "À vista R$ 619,02",
+      "img": "public/files/kvhb2d2iuyg9chmv70px/tiggo.jpg"
+    },
+    "36": {
+      "itens": "<p>- Filtro de combustível;<br />\r\n- Filtro de óleo do motor;<br />\r\n- Óleo para motor SYNTIUM 3000 XS SAE 5W-30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Óleo para Transmissão Tutela ZC 75W90 Synth;<br />\r\n- Inspeção de 38 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão:1h30m</p>",
+      "valor_vezes": "3x R$ 208,69",
+      "valor_a_vista": "À vista R$ 626,06",
+      "img": "public/files/kvhb2d2iuyg9chmv70px/tiggo.jpg"
+    },
+    "48": {
+      "itens": "<p>- Filtro de ar do motor;<br />\r\n- Filtro de óleo do motor;<br />\r\n- Velas de ignição;<br />\r\n- Óleo para motor SYNTIUM 3000 XS SAE 5W-30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Inspeção de 34 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão:1h20m</p>",
+      "valor_vezes": "3x R$ 212,70",
+      "valor_a_vista": "À vista R$ 638,09",
+      "img": "public/files/kvhb2d2iuyg9chmv70px/tiggo.jpg"
+    },
+    "60": {
+      "itens": "<p>- Filtro de óleo do motor;<br />\r\n- Óleo para motor SYNTIUM 3000 XS SAE 5W-30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Inspeção de 31 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão:1h10m</p>",
+      "valor_vezes": "3x R$ 150,73",
+      "valor_a_vista": "À vista R$ 452,18",
+      "img": "public/files/kvhb2d2iuyg9chmv70px/tiggo.jpg"
+    },
+    "72": {
+      "itens": "<p>- Correia de Sincronismo do motor;<br />\r\n- Filtro de ar do motor;<br />\r\n- Filtro de combustível;<br />\r\n- Filtro de óleo do motor;<br />\r\n- Velas de ignição;<br />\r\n- Óleo para motor SYNTIUM 3000 XS SAE 5W-30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Óleo para Transmissão Tutela ZC 75W90 Synth;<br />\r\n- Inspeção de 38 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão:3h</p>",
+      "valor_vezes": "3x R$ 447,19",
+      "valor_a_vista": "À vista R$ 1341,56",
+      "img": "public/files/kvhb2d2iuyg9chmv70px/tiggo.jpg"
+    }
+  },
+  "tiggo2": {
+    "12": {
+      "itens": "<p>- Filtro de combustível;<br />\r\n- Filtro de óleo do motor;<br />\r\n- Óleo para motor SYNTIUM 3000 XS SAE 5W-30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Inspeção de 36 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão:1h10m</p>",
+      "valor_vezes": "3x R$ 145,15",
+      "valor_a_vista": "À vista R$ 435,44",
+      "img": "public/files/3tv8tbrynx39oxg1a9fv/tiggo2_revisao2.jpg"
+    },
+    "24": {
+      "itens": "<p>- Filtro de ar do motor;<br />\r\n- Filtro de combustível;<br />\r\n- Filtro de óleo do motor;<br />\r\n- Óleo para motor SYNTIUM 3000 XS SAE 5W-30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Inspeção de 38 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão:1h15m</p>",
+      "valor_vezes": "3x R$ 169,55",
+      "valor_a_vista": "À vista R$ 508,66",
+      "img": "public/files/3tv8tbrynx39oxg1a9fv/tiggo2_revisao2.jpg"
+    },
+    "36": {
+      "itens": "<p>- Filtro de combustível;<br />\r\n- Filtro de óleo do motor;<br />\r\n- Velas de ignição;<br />\r\n- Óleo para motor SYNTIUM 3000 XS SAE 5W-30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Inspeção de 42 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão:1h15m</p>",
+      "valor_vezes": "3x R$ 213,99",
+      "valor_a_vista": "À vista R$ 641,98",
+      "img": "public/files/3tv8tbrynx39oxg1a9fv/tiggo2_revisao2.jpg"
+    },
+    "48": {
+      "itens": "<p>- Filtro de ar do motor;<br />\r\n- Filtro de combustível;<br />\r\n- Filtro de óleo do motor;<br />\r\n- Óleo para motor SYNTIUM 3000 XS SAE 5W-30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Óleo para Transmissão Tutela ZC 75W90 Synth;<br />\r\n- Inspeção de 41 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão:1h30m</p>",
+      "valor_vezes": "3x R$ 214,11",
+      "valor_a_vista": "À vista R$ 642,33",
+      "img": "public/files/3tv8tbrynx39oxg1a9fv/tiggo2_revisao2.jpg"
+    },
+    "60": {
+      "itens": "<p>- Filtro de combustível;<br />\r\n- Filtro de óleo do motor;<br />\r\n- Óleo para motor SYNTIUM 3000 XS SAE 5W-30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Inspeção de 35 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão:1h10m</p>",
+      "valor_vezes": "3x R$ 145,15",
+      "valor_a_vista": "À vista R$ 435,44",
+      "img": "public/files/3tv8tbrynx39oxg1a9fv/tiggo2_revisao2.jpg"
+    },
+    "72": {
+      "itens": "<p>- Filtro de ar do motor;<br />\r\n- Filtro de combustível;<br />\r\n- Filtro de óleo do motor;<br />\r\n- Velas de ignição;<br />\r\n- Óleo para motor SYNTIUM 3000 XS SAE 5W-30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Inspeção de 38 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão:1h20m</p>",
+      "valor_vezes": "3x R$ 238,40",
+      "valor_a_vista": "À vista R$ 715,20",
+      "img": "public/files/3tv8tbrynx39oxg1a9fv/tiggo2_revisao2.jpg"
+    }
+  },
+  "tiggo2AT": {
+    "12": {
+      "itens": "<p>- Filtro de combustível;<br />\r\n- Filtro de óleo do motor;<br />\r\n- Óleo para motor SYNTIUM 3000 XS SAE 5W-30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Inspeção de 36 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão:1h10m</p>",
+      "valor_vezes": "3x R$ 145,15",
+      "valor_a_vista": "À vista R$ 435,44",
+      "img": "public/files/3tv8tbrynx39oxg1a9fv/tiggo2_revisao2.jpg"
+    },
+    "24": {
+      "itens": "<p>- Filtro de ar do motor;<br />\r\n- Filtro de combustível;<br />\r\n- Filtro de óleo do motor;<br />\r\n- Óleo para motor SYNTIUM 3000 XS SAE 5W-30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Inspeção de 38 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão:1h15m</p>",
+      "valor_vezes": "3x R$ 169,55",
+      "valor_a_vista": "À vista R$ 508,66",
+      "img": "public/files/3tv8tbrynx39oxg1a9fv/tiggo2_revisao2.jpg"
+    },
+    "36": {
+      "itens": "<p>- Filtro de combustível;<br />\r\n- Filtro de óleo do motor;<br />\r\n- Velas de ignição;<br />\r\n- Óleo para motor SYNTIUM 3000 XS SAE 5W-30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Inspeção de 42 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão:1h15m</p>",
+      "valor_vezes": "3x R$ 213,99",
+      "valor_a_vista": "À vista R$ 641,98",
+      "img": "public/files/3tv8tbrynx39oxg1a9fv/tiggo2_revisao2.jpg"
+    },
+    "48": {
+      "itens": "<p>- Filtro de ar do Motor;<br />\r\n- Filtro de combustível;<br />\r\n- Filtro de óleo do motor;<br />\r\n- Óleo para motor SYNTIUM 3000 XS SAE 5W-30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Fluido para Transmissão Automática Tutela TR Dexron VI;<br />\r\n- Inspeção de 41 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão:1h50m</p>",
+      "valor_vezes": "3x R$ 322,75",
+      "valor_a_vista": "À vista R$ 968,25",
+      "img": "public/files/3tv8tbrynx39oxg1a9fv/tiggo2_revisao2.jpg"
+    },
+    "60": {
+      "itens": "<p>- Filtro de combustível;<br />\r\n- Filtro de óleo do motor;<br />\r\n- Óleo para motor SYNTIUM 3000 XS SAE 5W-30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Inspeção de 35 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão:1h10m</p>",
+      "valor_vezes": "3x R$ 145,15",
+      "valor_a_vista": "À vista R$ 435,44",
+      "img": "public/files/3tv8tbrynx39oxg1a9fv/tiggo2_revisao2.jpg"
+    },
+    "72": {
+      "itens": "<p>- Filtro de ar do motor;<br />\r\n- Filtro de combustível;<br />\r\n- Filtro de óleo do motor;<br />\r\n- Velas de ignição;<br />\r\n- Óleo para motor SYNTIUM 3000 XS SAE 5W-30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Inspeção de 38 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão:1h20m</p>",
+      "valor_vezes": "3x R$ 238,40",
+      "valor_a_vista": "À vista R$ 715,20",
+      "img": "public/files/3tv8tbrynx39oxg1a9fv/tiggo2_revisao2.jpg"
+    }
+  },
+  "Arrizo5": {
+    "12": {
+      "itens": "<p>- Filtro de combustível;<br />\r\n- Filtro de óleo do motor;<br />\r\n- Óleo para motor SYNTIUM 3000 XS SAE - 5W-30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Inspeção de 40 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão:0h55m</p>",
+      "valor_vezes": "3x R$ 127,70",
+      "valor_a_vista": "À vista R$ 383,09",
+      "img": "public/files/qswhwcpnwgh9pky5l9am/arrizo_revisao2.jpg"
+    },
+    "24": {
+      "itens": "<p>- Filtro de ar do motor;<br />\r\n- Filtro de combustível;<br />\r\n- Filtro de óleo do motor;<br />\r\n- Óleo para motor SYNTIUM 3000 XS SAE 5W-30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Inspeção de 42 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão:1h</p>",
+      "valor_vezes": "3x R$ 160,98",
+      "valor_a_vista": "À vista R$ 482,95",
+      "img": "public/files/qswhwcpnwgh9pky5l9am/arrizo_revisao2.jpg"
+    },
+    "36": {
+      "itens": "<p>- Filtro de combustível;<br />\r\n- Filtro de óleo do motor;<br />\r\n- Óleo para motor SYNTIUM 3000 XS SAE 5W-30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Velas de ignição;<br />\r\n- Inspeção de 44 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão:1h10m</p>",
+      "valor_vezes": "3x R$ 244,69",
+      "valor_a_vista": "À vista R$ 734,06",
+      "img": "public/files/qswhwcpnwgh9pky5l9am/arrizo_revisao2.jpg"
+    },
+    "48": {
+      "itens": "<p>- Filtro de ar do motor;<br />\r\n- Filtro de combustível;<br />\r\n- Filtro de óleo do motor;<br />\r\n- Óleo para motor SYNTIUM 3000 XS SAE 5W-30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Fluido para Transmissão CVT;<br />\r\n- Inspeção de 44 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão:1h50m</p>",
+      "valor_vezes": "3x R$ 287,04",
+      "valor_a_vista": "À vista R$ 861,13",
+      "img": "public/files/qswhwcpnwgh9pky5l9am/arrizo_revisao2.jpg"
+    },
+    "60": {
+      "itens": "<p>- Filtro de ar do motor;<br />\r\n- Filtro de combustível;<br />\r\n- Filtro de óleo do motor;<br />\r\n- Óleo para motor SYNTIUM 3000 XS SAE 5W-30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Fluido para Transmissão CVT;<br />\r\n- Inspeção de 44 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão:1h50m</p>",
+      "valor_vezes": "3x R$ 287,04",
+      "valor_a_vista": "À vista R$ 861,13",
+      "img": "public/files/qswhwcpnwgh9pky5l9am/arrizo_revisao2.jpg"
+    },
+    "72": {
+      "itens": "<p>- Filtro de ar do motor;<br />\r\n- Filtro de combustível;<br />\r\n- Filtro de óleo do motor;<br />\r\n- Óleo para motor SYNTIUM 3000 XS SAE 5W-30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Inspeção de 44 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão:1h</p>",
+      "valor_vezes": "3x R$ 160,98",
+      "valor_a_vista": "À vista R$ 482,95",
+      "img": "public/files/qswhwcpnwgh9pky5l9am/arrizo_revisao2.jpg"
+    }
+  },
+  "Tiggo5x": {
+    "12": {
+      "itens": "<p>- Filtro de combustível;<br />\r\n- Filtro de óleo do motor;<br />\r\n- Óleo para motor SYNTIUM 3000 XS SAE - 5W-30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Inspeção de 44 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão:1h</p>",
+      "valor_vezes": "3x R$ 147,43",
+      "valor_a_vista": "À vista R$ 442,29",
+      "img": "public/files/0cjmumqjh2rdaydxlizg/tiggo5x_revisao2.jpg"
+    },
+    "24": {
+      "itens": "<p>- Filtro de ar do motor do motor;<br />\r\n- Filtro de combustível;<br />\r\n- Filtro de óleo do motor;<br />\r\n- Óleo para motor SYNTIUM 3000 XS SAE 5W-30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Elemento filtro de ar do sistema de A/C;<br />\r\n- Inspeção de 44 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão:1h15m</p>",
+      "valor_vezes": "3x R$ 221,69",
+      "valor_a_vista": "À vista R$ 665,08",
+      "img": "public/files/0cjmumqjh2rdaydxlizg/tiggo5x_revisao2.jpg"
+    },
+    "36": {
+      "itens": "<p>- Filtro de combustível;<br />\r\n- Filtro de óleo do motor;<br />\r\n- Óleo para motor SYNTIUM 3000 XS SAE 5W-30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Velas de ignição;<br />\r\n- Inspeção de 48 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão:1h20m</p>",
+      "valor_vezes": "3x R$ 270,78",
+      "valor_a_vista": "À vista R$ 812,33",
+      "img": "public/files/0cjmumqjh2rdaydxlizg/tiggo5x_revisao2.jpg"
+    },
+    "48": {
+      "itens": "<p>- Filtro de ar do motor do motor;<br />\r\n- Filtro de combustível;<br />\r\n- Filtro de óleo do motor;<br />\r\n- Óleo para motor SYNTIUM 3000 XS SAE 5W-30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Elemento filtro de ar do sistema de A/C;<br />\r\n- Inspeção de 48 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão:1h15m</p>",
+      "valor_vezes": "3x R$ 221,69",
+      "valor_a_vista": "À vista R$ 665,08",
+      "img": "public/files/0cjmumqjh2rdaydxlizg/tiggo5x_revisao2.jpg"
+    },
+    "60": {
+      "itens": "<p>- Filtro de combustível;<br />\r\n- Filtro de óleo do motor;<br />\r\n- Óleo para motor SYNTIUM 3000 XS SAE 5W-30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Inspeção de 44 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão:1h</p>",
+      "valor_vezes": "3x R$ 147,43",
+      "valor_a_vista": "À vista R$ 442,29",
+      "img": "public/files/0cjmumqjh2rdaydxlizg/tiggo5x_revisao2.jpg"
+    },
+    "72": {
+      "itens": "<p>- Filtro de ar do motor do motor;<br />\r\n- Filtro de combustível;<br />\r\n- Filtro de óleo do motor;<br />\r\n- Óleo para motor SYNTIUM 3000 XS SAE 5W-30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Elemento filtro de ar do sistema de A/C;<br />\r\n- Inspeção de 48 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão:1h15m</p>",
+      "valor_vezes": "3x R$ 221,69",
+      "valor_a_vista": "À vista R$ 665,08",
+      "img": "public/files/0cjmumqjh2rdaydxlizg/tiggo5x_revisao2.jpg"
+    }
+  },
+  "Tiggo7": {
+    "12": {
+      "itens": "<p>- Filtro de combustível;<br />\r\n- Filtro de óleo do motor;<br />\r\n- Óleo para motor SYNTIUM 3000 XS SAE - 5W-30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Inspeção de 44 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão:1h</p>",
+      "valor_vezes": "3x R$ 147,43",
+      "valor_a_vista": "À vista R$ 442,29",
+      "img": "public/files/nsrap8fzsmqmbgczp7dz/tiggo7_revisao2.jpg"
+    },
+    "24": {
+      "itens": "<p>- Filtro de ar do motor;<br />\r\n- Filtro de combustível;<br />\r\n- Óleo para motor SYNTIUM 3000 XS SAE 5W-30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Elemento filtro de ar do sistema de A/C;<br />\r\n- Inspeção de 44 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão:1h15m</p>",
+      "valor_vezes": "3x R$ 234,07",
+      "valor_a_vista": "À vista R$ 702,22",
+      "img": "public/files/nsrap8fzsmqmbgczp7dz/tiggo7_revisao2.jpg"
+    },
+    "36": {
+      "itens": "<p>- Filtro de combustível;<br />\r\n- Filtro de óleo do motor;<br />\r\n- Óleo para motor SYNTIUM 3000 XS SAE 5W-30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Velas de ignição;<br />\r\n- Inspeção de 48 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão: 1h20m</p>",
+      "valor_vezes": "3x R$ 270,78",
+      "valor_a_vista": "À vista R$ 812,33",
+      "img": "public/files/nsrap8fzsmqmbgczp7dz/tiggo7_revisao2.jpg"
+    },
+    "48": {
+      "itens": "<p>- Filtro de ar do motor;<br />\r\n- Filtro de combustível;<br />\r\n- Filtro de óleo do motor;<br />\r\n- Óleo para motor SYNTIUM 3000 XS SAE 5W-30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Elemento filtro de ar do sistema de A/C;<br />\r\n- Inspeção de 48 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão: 1h15m</p>",
+      "valor_vezes": "3x R$ 234,07",
+      "valor_a_vista": "À vista R$ 702,22",
+      "img": "public/files/nsrap8fzsmqmbgczp7dz/tiggo7_revisao2.jpg"
+    },
+    "60": {
+      "itens": "<p>- Filtro de combustível;<br />\r\n- Filtro de óleo do motor;<br />\r\n- Óleo para motor SYNTIUM 3000 XS SAE 5W-30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Inspeção de 44 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão: 1h</p>",
+      "valor_vezes": "3x R$ 147,43",
+      "valor_a_vista": "À vista R$ 442,29",
+      "img": "public/files/nsrap8fzsmqmbgczp7dz/tiggo7_revisao2.jpg"
+    },
+    "72": {
+      "itens": "<p>- Filtro de ar do motor;<br />\r\n- Filtro de combustível;<br />\r\n- Filtro de óleo do motor;<br />\r\n- Óleo para motor SYNTIUM 3000 XS SAE 5W-30;<br />\r\n- Arruela do bujão do cárter de óleo do motor;<br />\r\n- Inspeção de 48 itens;<br />\r\n- Mão de obra;<br />\r\n- Tempo estimado da revisão: 1h15m</p>",
+      "valor_vezes": "3x R$ 234,07",
+      "valor_a_vista": "À vista R$ 702,22",
+      "img": "public/files/nsrap8fzsmqmbgczp7dz/tiggo7_revisao2.jpg"
+    }
+  }
+}
